@@ -1,0 +1,11 @@
+{
+  "rules": {
+    ".read": "true",
+    ".write": "true",
+    "events-test": {
+      "$id": {
+        ".indexOn": "liveAt"
+      }
+    }
+  }
+}
